@@ -9,5 +9,5 @@ Pod::Spec.new do |s|
   s.license       = "MIT"
   s.author        = { "rohitphogat19" => "rohit.kumar@bigsteptech.com" }
   s.platform      = :ios, "9.0"
-  s.source       = { :http => "https://github.com/ChannelizeIO/Channelize-iOS/raw/master/Channelize_API.framework.zip" }
+  s.source       = { "http" => "https://github.com/ChannelizeIO/Channelize-iOS/raw/master/Channelize_API.framework.zip" }
 end
